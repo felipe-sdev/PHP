@@ -8,4 +8,6 @@ $ano=2026;
 
 $anocompleto= $dia . "de" . $mes . "de" . $ano;
 
+print $anocompleto;
+
 ?>
