@@ -8,4 +8,5 @@
 
  //Para que saibamos o indicice que se encontra aquele determinado dados no array , devemos simplesmente solicita um print com o nome da variavel de array e ele nos mostrara o numero de cada dados escrito no array.
 
+ //  Prodemos tambem alem do indice podemos identifica-las com nome .
 ?>
